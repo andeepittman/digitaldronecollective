@@ -10,12 +10,12 @@
 
 <p>A team of three Code for Canada fellows worked with a Transport Canada developer, alongside two individuals from the Remotely Piloted Aircraft Systems (RPAS) Task Force.
 
-- Weiguang Xiao, Developer, Transport Canada Solution Centre
-- Fatima Khalid, Developer, Code for Canada Fellow
-- Jennifer Payne, Product Manager, Code for Canada Fellow
-- Andee Pittman, Designer, Code for Canada Fellow
-- Jeannie Stewart-Smith, Senior Policy Analyst, RPAS Task Force
-- Olivier Bellehumeur-Genier, Safety Inspector, RPAS Task Force
+* Weiguang Xiao, Developer, Transport Canada Solution Centre
+* Fatima Khalid, Developer, Code for Canada Fellow
+* Jennifer Payne, Product Manager, Code for Canada Fellow
+* Andee Pittman, Designer, Code for Canada Fellow
+* Jeannie Stewart-Smith, Senior Policy Analyst, RPAS Task Force
+* Olivier Bellehumeur-Genier, Safety Inspector, RPAS Task Force
 
 The work of this core team was supported by a project panel, made up of individuals from a variety of disciplines, who helped by providing feedback and remove blockers. </p>
 
@@ -47,23 +47,23 @@ How might we enable recreational drone pilots to confidently conduct their first
 
 **Product goals:**
 
-- Instruction - guide users through the process of conducting a site survey
-- Include the why - include information about why it’s important (relating to user goals of avoiding fines, keeping drone/people safe)
-- Include success metrics - give users criteria for success. How will they know when they’ve done it sufficiently and would pass inspection? 
-- Be a trusted source - including liability information and awareness, have Transport Canada branding 
-- Provide access offline - the ability for offline capability to serve the remote nature of drone flying
-- Ease - Makes the process of site survey manageable and easy for users
+* Instruction - guide users through the process of conducting a site survey
+* Include the why - include information about why it’s important (relating to user goals of avoiding fines, keeping drone/people safe)
+* Include success metrics - give users criteria for success. How will they know when they’ve done it sufficiently and would pass inspection? 
+* Be a trusted source - including liability information and awareness, have Transport Canada branding 
+* Provide access offline - the ability for offline capability to serve the remote nature of drone flying
+* Ease - Makes the process of site survey manageable and easy for users
 
 **Desired product outcomes:**
 
-- Motivation to follow regulations through an understanding of why these aspects are important to safety and avoiding fines
-- Success with following regulations from understanding instructions and receiving guidance.
+* Motivation to follow regulations through an understanding of why these aspects are important to safety and avoiding fines
+* Success with following regulations from understanding instructions and receiving guidance.
 
 **Design constraints:**
 
-- Must be a digital tool
-- Must be scalable to accommodate other “doing” pieces of the regulations
-- Must allow users to conduct activities properly under the regulations, ie. no simplifying processes to meet user needs.
+* Must be a digital tool
+* Must be scalable to accommodate other “doing” pieces of the regulations
+* Must allow users to conduct activities properly under the regulations, ie. no simplifying processes to meet user needs.
 
 To see the first concept explorations, check out our first concept gallery page.
 
