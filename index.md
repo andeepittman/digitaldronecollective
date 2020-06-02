@@ -10,6 +10,7 @@
 
 <p>A team of three Code for Canada fellows worked with a Transport Canada developer, alongside two individuals from the Remotely Piloted Aircraft Systems (RPAS) Task Force.
 
+
 - Weiguang Xiao, Developer // Transport Canada Solution Centre
 - Fatima Khalid, Developer // Code for Canada Fellow
 - Jennifer Payne, Product Manager // Code for Canada Fellow
@@ -46,6 +47,8 @@ However, for the sake of learning how to help users at scale, we needed to start
 How might we enable recreational drone pilots to confidently conduct their first site survey?
 
 **Product goals:**
+
+
 - Instruction - guide users through the process of conducting a site survey
 - Include the why - include information about why it’s important (relating to user goals of avoiding fines, keeping drone/people safe)
 - Include success metrics - give users criteria for success. How will they know when they’ve done it sufficiently and would pass inspection? 
@@ -54,10 +57,14 @@ How might we enable recreational drone pilots to confidently conduct their first
 - Ease - Makes the process of site survey manageable and easy for users
 
 **Desired product outcomes:**
+
+
 - Motivation to follow regulations through an understanding of why these aspects are important to safety and avoiding fines
 - Success with following regulations from understanding instructions and receiving guidance.
 
 **Design constraints:**
+
+
 - Must be a digital tool
 - Must be scalable to accommodate other “doing” pieces of the regulations
 - Must allow users to conduct activities properly under the regulations, ie. no simplifying processes to meet user needs.</p>
