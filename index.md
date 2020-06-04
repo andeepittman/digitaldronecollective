@@ -1,6 +1,6 @@
-# Digital Drone Collective
+# the Drone Companion Application project
 
-##### _A partnership between Transport Canada and Code for Canada_ 
+##### _A partnership between Transport Canada and the Code for Canada_ 
 
 
 ### The Code for Canada Fellowship program
@@ -9,16 +9,28 @@ The Code for Canada fellowship program embeds digital professionals in governmen
 
 ### Who made up the Digital Drone Collective? 
 
-"Core team"
+The "core team":
 * Jeannie Stewart-Smith, Senior Policy Analyst, _RPAS Task Force_
 * Olivier Bellehumeur-Genier, Safety Inspector, _RPAS Task Force_
-* Weiguang Xiao, Developer, _Transport Canada Solution Centre_
+* Weiguang Xiao, Developer, _TC Solution Centre_
 * Jennifer Payne, Product Manager, _Code for Canada Fellow_
 * Andee Pittman, Designer, _Code for Canada Fellow_
 * Fatima Khalid, Developer, _Code for Canada Fellow_
 
-"Extended collective"
-The core team was supported by a project panel made up of individuals from a variety of disciplines. They supported by providing feedback and navigating internal policies. 
+The "extended collective":
+The core team was supported by a project panel made up of Transport Canada employees from a variety of disciplines and levels. They supported by providing feedback and navigating internal policies. 
+
+* Felix Meunier, Director, _RPAS Task Force_
+* Ryan Coates, Manager, Policy, Regulations & Stakeholder Engagement, _RPAS Task Force_
+* Nic Horne, Executive Director, _TC Solutions Centre_
+* Danielle Holden, Director, _Solutions Centre_
+* Kofi Arthiabah, Director, _Cloud Infrastructure Operations_ 
+* Carine Lavoir, Manager, _Internal Communications_
+* Stephanie Bell Senior Communications Advisor, _Internal and Corporate Communications_
+* Graham MacVannel, Lawyer, _Legal Counsel_
+* Natasha Pecarski, Aviation Team Lead, _Web Services_
+* Ron St Louis, Communications Advisor, _Web Services_
+* Graham Rivers, Director _Digital Enablement_
 
 ### The Challenge
 
@@ -31,9 +43,9 @@ Our target users are new recreational drone pilots. From our research, we learne
 ### What did the research tell us?
 For primary research, we conducted several rounds of interviews, a diary study, and an immersion study. 
 
-The top challenge found in the research was a lack of practical education for recreational drone pilots on how to follow the regulations. We found the gap for this group existed despite several efforts in the policy, service delivery and roll-out.
+**The biggest challenge found in the research was a lack of practical education for recreational drone pilots** on how to follow the regulations. We found the gap for this group existed despite several efforts in the policy, service delivery and roll-out. 
 
-**Recreational drone pilot exam and certification service**
+**1.Recreational drone pilot exam and certification service**
 
 The policy included two levels of certification: the basic pilot license and the advanced pilot license. The basic pilot license only requires an online exam. The advanced contains an in-person demonstration of skills. Despite this, we found that the knowledge requirements for the basic drone pilot exam were extensive, and would likely still be a barrier. 
 
@@ -44,6 +56,7 @@ Sample of a knowledge requirement in flight theory:
 > The small RPAS pilot operating within visual line of sight must be able to:
 Explain the function of the vertical fin.
 Identify basic components including lifting and stabilizing components.
+
 To learn these, prospective drone pilots would have to sift through standard aviation textbooks written for professional pilots.  
 
 For the two (out of four) participants that discovered the certification requirement, only one was able to pass on the first attempt. This participant used the internet to search for answers to the questions. Technically, "open-book" is allowed by the regulations. The rationale for this was to balance the difficulty of the exam. However, we found research that suggested that retention from open book exams is lower over time[1]. We identified that this approach may not fulfill the policy objective. 
@@ -73,9 +86,9 @@ The RPAS team also completed two cross-country information tours. The first occu
 #### Opportunity Statement
 > Recreational drone operators in Canada need to understand and be able to enact all the steps required between acquiring and safely operating a drone, and to understand the risks of drone flight because users want to feel competent, safe and legal when they are flying a drone. Users want to keep their drone safe and avoid fines. They want an efficient, free, understandable, comprehensive, trusted source of information.
 
-> However, for the sake of learning how to help users at scale, we needed to start smaller with one aspect of the regulations. Having a small, well-defined scope would enable us to prototype and test more quickly. The second most pressing problem we identified was a lack of support for the site survey. 
+> The Digital Drone Collective will need to start small to learn about how we might tackle regulation guidance with a digital tool in order to bring it to scale. To do this, we are going to investigate how we can best facilitate the learning of the most challenging part of the regulations, the site survey. Through this, we can learn how we might apply this approach to other aspects of the regulation. We will investigate how we guide users through the process, have them understand why, and when they’ve achieved success. Through this, we can grow motivation, help people understand the information, and give guidance on how to comply with regulations. 
 
-We thought the site survey, although a complex process, would be the most impactful to prototype with. It would ensure that we could test the central question: can we teach people the required aviation practices with a digital tool? To reduce the risk and take a lean approach, we needed to test with the hardest skill. Had we started with writing standard operating procedures, for example, we might have missed the level of granularity needed.  Fortunately, the site survey is also the aviation practice with the greatest impact on safety. This made it an easier sell to the broader collective. 
+We thought the site survey, although a complex process, would be the most impactful to prototype with. It would ensure that we could test the central question: can we teach people the required aviation practices with a digital tool? To reduce the risk and take a lean approach, we needed to test with the hardest skill. Fortunately, the site survey is also the aviation practice with the greatest impact on safety. This made it an easier sell to the broader collective. 
 
 **Problem statement:**
 
@@ -112,7 +125,18 @@ To see the final design, check out our final design gallery page.
 
 ### What we built
 
-We built a tool (a progressive web application) to teach users how to conduct a site survey. In order to do this, we are building a tool that will help recreational drone pilots gain an understanding of what steps are necessary within a site survey, how to complete each step and why each step is necessary.
+We built a progressive web application to guide users through conducting a site survey. Our long-term vision is a tool that guides users through all the steps necessary to comply with drone regulations (Canadian Aviation Regulations Part IX), including those not part of the site survey.
 
-Our long-term vision is a tool that guides users through all the steps necessary to comply with drone regulations (Canadian Aviation Regulations Part IX), including those not part of the site survey.
+The app was built with the following: 
+* React.js - frontend
+* .NET core - backend
+* PostgreSQL - database
+* WET 4, Aurora Design System - Theme layer base
+* Azure - Cloud
+* Docker - Containerization
+* Paypal AATT - accessibility testing
+* MobX - state management
+* Jest, Enzyme - automated testing
+* Travis CL - continuous integration and deployment
 
+To see the repository, visit our [Drone Companion App Repository](https://github.com/sugaroverflow/drone-companion-app)
