@@ -45,11 +45,11 @@ For primary research, we conducted several rounds of interviews, a diary study, 
 
 **The biggest challenge found in the research was a lack of practical education for recreational drone pilots** on how to follow the regulations. We found the gap for this group existed despite several efforts in the policy, service delivery and roll-out. 
 
-**1.Recreational drone pilot exam and certification service**
+**Recreational drone pilot exam and certification service**
 
-The policy included two levels of certification: the basic pilot license and the advanced pilot license. The basic pilot license only requires an online exam. The advanced contains an in-person demonstration of skills. Despite this, we found that the knowledge requirements for the basic drone pilot exam were extensive, and would likely still be a barrier. 
+The policy included two levels of certification: the basic pilot license and the advanced pilot license. The basic pilot license only requires an online exam. The advanced contains an in-person demonstration of skills. Despite this, we found that the [knowledge requirements](https://www.tc.gc.ca/en/services/aviation/publications/tp-15263.html) for the basic drone pilot exam were extensive, and would likely still be a barrier. 
 
-The study guide provided by Transport Canada indicated exam takers would have to learn over 250 aviation topics in subjects such as flight theory, meteorology and radiotelephony. 
+[The study guide](https://www.tc.gc.ca/en/services/aviation/publications/tp-15263.html) provided by Transport Canada indicated exam takers would have to learn over 250 aviation topics in subjects such as flight theory, meteorology and radiotelephony. 
 
 Sample of a knowledge requirement in flight theory: 
 
@@ -59,11 +59,7 @@ Identify basic components including lifting and stabilizing components.
 
 To learn these, prospective drone pilots would have to sift through standard aviation textbooks written for professional pilots.  
 
-For the two (out of four) participants that discovered the certification requirement, only one was able to pass on the first attempt. This participant used the internet to search for answers to the questions. Technically, "open-book" is allowed by the regulations. The rationale for this was to balance the difficulty of the exam. However, we found research that suggested that retention from open book exams is lower over time[1]. We identified that this approach may not fulfill the policy objective. 
-
-[1]https://www.researchgate.net/publication/51717450_Expectancy_of_an_open-book_test_decreases_performance_on_a_delayed_closed-book_test
-
-Further, the exam neglected to support practical knowledge of how to conduct the requirements of the regulations. For the recreational drone pilot, it's likely more effective to have them understand "how" to be safe, than understand "what" and "why" alone.  
+For the two (out of four) participants that discovered the certification requirement, only one was able to pass on the first attempt. This participant used the internet to search for answers to the questions. Technically, "open-book" is allowed by the regulations. The rationale for this was to balance the difficulty of the exam. However, we found [research that suggested that retention from open book exams is lower over time](https://www.researchgate.net/publication/51717450_Expectancy_of_an_open-book_test_decreases_performance_on_a_delayed_closed-book_test). We identified that this approach may not fulfill the policy objective. 
 
 **Private sector training**
 
@@ -79,9 +75,9 @@ The Aeronautical Information Manual (AIM) is the standard aviation book that Tra
 
 **Safety campaigns on social media and in-person events**
 
-A commendable effort was made to bring awareness to the regulations. However that awareness didn't include educational support for the site survey. The basic rules were the focus, and didn't connect users to alternative educational resources.   
+A commendable effort was made to bring awareness to the regulations. However that awareness didn't include educational support for the site survey--the basic rules were the focus.   
 
-The RPAS team also completed two cross-country information tours. The first occured between the Canadian Gazette publishings to seek feedback on the first draft. Then again they went on tour after the publishing of the regulations. The team describes little participation from the recreational drone community. Even if they had, in-person events are not accessible to the full target audience. Without consideration to serving remote communities, this was not a viable option for education.  
+The RPAS team also completed two cross-country information tours. The first occured between the Canadian Gazette publishings to seek feedback on the first draft. Then again they went on tour after the publishing of the regulations. The team describes little participation from the recreational drone community. Even if they had, in-person events are not accessible to the full target audience. Without consideration to serving remote communities, this was not a viable option for the kind of education needed for this group.  
 
 #### Opportunity Statement
 > Recreational drone operators in Canada need to understand and be able to enact all the steps required between acquiring and safely operating a drone, and to understand the risks of drone flight because users want to feel competent, safe and legal when they are flying a drone. Users want to keep their drone safe and avoid fines. They want an efficient, free, understandable, comprehensive, trusted source of information.
@@ -90,9 +86,7 @@ The RPAS team also completed two cross-country information tours. The first occu
 
 We thought the site survey, although a complex process, would be the most impactful to prototype with. It would ensure that we could test the central question: can we teach people the required aviation practices with a digital tool? To reduce the risk and take a lean approach, we needed to test with the hardest skill. Fortunately, the site survey is also the aviation practice with the greatest impact on safety. This made it an easier sell to the broader collective. 
 
-**Problem statement:**
-
-How might we enable recreational drone pilots to confidently conduct their first site survey?
+> How might we enable recreational drone pilots to confidently conduct their first site survey?
 
 **Product goals:**
 
