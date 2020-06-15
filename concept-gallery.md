@@ -5,6 +5,7 @@
 **"Let's do it"**
 
 An application that would facilitate the steps required in the site survey. 
+
 ![Landing page](concepts/letsdoit/IMG_20190306_152438.jpg)
 ![Create new/Edit existing](concepts/letsdoit/IMG_20190306_152443.jpg)
 ![Steps menu](concepts/letsdoit/IMG_20190306_152455.jpg)
@@ -34,3 +35,6 @@ An application that would facilitate the steps required in the site survey.
 ![Acknowledgement 2](concepts/letsdoit/IMG_20190306_152746.jpg)
 ![Before take-off checklist](concepts/letsdoit/IMG_20190306_152754.jpg)
 ![Completion state](concepts/letsdoit/IMG_20190306_152750.jpg)
+
+**Checklist**
+
