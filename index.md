@@ -109,11 +109,11 @@ We thought the site survey, although a complex process, would be the most impact
 * Must allow users to conduct activities properly under the regulations, ie. no simplifying processes to meet user needs.
 
 ### What we designed
-To see the first concept explorations, [check out our first concept gallery page.](concept-gallery.md)
+To see the first concept explorations in our Alpha phase, [check out our first concept gallery page.](concept-gallery.md)
 
-To see the first prototype, check out our first prototype gallery page.
+To see the first prototype in our Alpha phase, check out our first prototype gallery page.
 
-To see the second prototype, check out our second prototype gallery page. 
+To see the second prototype in our Beta phase, check out our second prototype gallery page. 
 
 To see the final design, check out our final design gallery page. 
 
