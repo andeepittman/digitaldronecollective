@@ -17,6 +17,8 @@ The "core team":
 * Andee Pittman, Designer, _Code for Canada Fellow_
 * Fatima Khalid, Developer, _Code for Canada Fellow_
 
+![The DDC Core Team](ddc-team-ideation-1/ddc-core-team.HEIC)
+
 The "extended collective":
 The core team was supported by a project panel made up of Transport Canada employees from a variety of disciplines and levels. They supported by providing feedback and navigating internal policies. 
 
