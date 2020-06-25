@@ -38,3 +38,18 @@ An application that would facilitate the steps required in the site survey.
 
 **Checklist**
 
+This direction was proposed by our TC partners. Checklists were a convention used in other areas of Civil Aviation and would be easy to build and maintain. 
+
+![Landing page](concepts/checklist/1-landing.png)
+![Checklist](concepts/checklist/2-checklist.png)
+![Instructions](concepts/checklist/3-help.png)
+![Checklist-2](concepts/checklist/4-weather.png)
+
+**Guidance**
+
+This direction focused on educating users ahead of completing a site survey. It wouldn't be ideal for users, but would also be easy to build and maintain. 
+
+![Landing page](concepts/guidance/Document 12_2(1).jpg)
+![Module list](concepts/guidance/Document 12_3.jpg)
+![Completion state](concepts/guidance/Document 12_4.jpg)
+
