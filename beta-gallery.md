@@ -3,7 +3,7 @@
 After we discovered the the checklist wasn't working for the complexity of the site survey, we pivoted to focusing more on educating drone pilots. By structuring content in the form of an educational lesson, we were able to have better information architecture for the various levels of information. 
 
 ![Language select](ddc-final-screens/1.0-language.png)
-![Onboarding](ddc-final-screens/2.0-onboarding-default copy.png)
+![Onboarding](ddc-final-screens/2.0-onboarding-default.png)
 ![Terms and Conditions](ddc-final-screens/2.0-onboarding-terms+c.png)
 ![Home page](ddc-final-screens/long-term-vision-home.png)
 ![Site survey landing page](ddc-final-screens/3.0-phases-default.png)
