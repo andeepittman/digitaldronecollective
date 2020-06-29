@@ -40,12 +40,16 @@ The challenge for our team was outlined in our project charter:
 
 > “Drone operators—especially those recreational operators who are new to aviation—experience confusion and frustration when planning flights, conducting and recording site surveys, analyzing risk, and reporting incidents. As a result many operators are not flying safely and in a manner that is consistent with regulations. By prioritizing features based on research into the needs of recreational drone operators, fellows will build a product that makes it easier for them to fly more safely and in accordance with regulations.”
 
-Our target users are new recreational drone pilots. From our research, we learned these individuals often use their drones for photography or for the fun of flying. Many of these individuals have limited knowledge of aviation and drone regulations.
+Our target users are new recreational drone pilots. From our research, we learned these individuals often use their drones for photography or for fun. Many of these individuals have limited knowledge of aviation and drone regulations.
 
 ### What did the research tell us?
-For primary research, we conducted several rounds of interviews, a diary study, and an immersion study. 
+For primary research we conducted:
+- several rounds of interviews 
+- a diary study
+- an immersion study 
+- usability studies throughout prototyping
 
-**The biggest challenge found in the research was a lack of practical education for recreational drone pilots** on how to follow the regulations. We found the gap for this group existed despite several efforts in the policy, service delivery and roll-out. 
+The biggest challenge found in the research was a lack of practical education for recreational drone pilots.  We found the gap for this group existed despite efforts in the policy, service delivery and marketing communications. 
 
 **Recreational drone pilot exam and certification service**
 
@@ -61,32 +65,36 @@ Identify basic components including lifting and stabilizing components.
 
 To learn these, prospective drone pilots would have to sift through standard aviation textbooks written for professional pilots.  
 
-For the two (out of four) participants that discovered the certification requirement, only one was able to pass on the first attempt. This participant used the internet to search for answers to the questions. Technically, "open-book" is allowed by the regulations. The rationale for this was to balance the difficulty of the exam. However, we found [research that suggested that retention from open book exams is lower over time](https://www.researchgate.net/publication/51717450_Expectancy_of_an_open-book_test_decreases_performance_on_a_delayed_closed-book_test). We identified that this approach may not fulfill the policy objective. 
+Only two out of four participants discovered the certification requirement in their immersion. Of those two, only one was able to pass on the first attempt. This participant used the internet to search for answers to the questions during the test. 
 
-**Private sector training**
+"Open-book" is allowed by the regulations. The rationale provided for this was to balance the difficulty of the exam. We investigated the effects on open-book tests and found conflicting research. We concluded that in a regular course, open-book exams seemed to make little to no difference in learning outcomes. However, retention from open book exams has found to be lower over time. Considering there is no coursework provided to support this exam, there's no guarantee that learning will happen. This seemed to be the factor that enabled open-book tests to be preferable to closed-book. Therefore we suggested that without educational material, this approach may not fulfill the policy objective. 
 
-From our organizational research we found that the RPAS Task Force believed the private sector would provide training for both the Basic and Advanced exams. We spoke to the Ottawa Flight School during one of their events where Transport Canada spoke about the new regulations. They explained to our team that they would not be creating a course for the Basic certificate because it wasn't financially viable. 
+**Relying on the private sector for training**
 
-We also found that the list of locations offering in-person flight exams for the Advanced certificate was limited. There were only 64 locations across the country upon the initial release of the regulations. This led us to think that the private sector appetite for drone education might only exist within major city centres. 
+We found that the RPAS Task Force believed the private sector would provide training for both the Basic and Advanced exams. We decided to investigate this to see if we could confirm this approach. We spoke to the Ottawa Flight School during one of their events where Transport Canada presented. They explained to our team that they would not be creating a course for the Basic certificate because it wasn't financially viable. 
 
-Without being able to guarantee a company would provide this service, we believed this educational gap could remain. This was central to our justification for Transport Canada to invest in filling this gap.   
+We also found that the list of locations offering in-person flight exams for the Advanced certificate was limited. There were only 64 locations across the country upon the initial release of the regulations. This led us to think that the private sector appetite for drone education might only exist within major city centres. While there was no data on where drone pilots lived yet, we found evidence that suggested that drone communities flourished in more rural areas due to the perceived level of safety.  
+
+We concluded that Transport Canada could not guarantee that the private sector would provide the needed education for the Basic Pilot Certificate. We believed it was likely that an educational gap could remain for recreational pilots.   
 
 **Content provided in the Aeronautical Information Manual** 
 
-The Aeronautical Information Manual (AIM) is the standard aviation book that Transport Canada produces to describe aviation regulations. By reviewing the current editions of the textbook, we could hypothesize that they would not enable users to complete a site survey successfully. We were only able to see the first draft of the information provided on the Site Survey after we finished our discovery period. We decided to include the AIM and the other legal aviation documents required by Transport Canada in our first prototype test. We found that in all usability sessions, the participants were interested in learning about how to complete the regulations, but found the materials insufficient because they lacked basic information and context. The internet also lacked credible information and lead participants further astray. 
+The Aeronautical Information Manual (AIM) is the standard aviation book that Transport Canada produces to describe aviation regulations. We reviewed the current edition of the textbook to gauge its usability for a recreational drone pilot. It is text-heavy, with little use of imagery, and the content was directed at readers who already had an education in aeronautics. Therefore, we believed that users would find this resource difficult to use for their self-directed learning. 
+
+We were only able to see the first draft of the information provided on the site survey after we finished our discovery period. We decided to include the AIM and the other legal aviation documents required by Transport Canada in our first prototype test. We found that in all usability sessions, the participants were interested in learning about how to follow the regulations. However, they found the materials insufficient because they lacked basic information and context related to drone flight. The internet also lacked credible information for Canada, and lead participants further astray. This confirmed our hypothesis, and lead us to conclude that the basic material provided by Transport Canada would be insufficient for the needs of this audience. 
 
 **Safety campaigns on social media and in-person events**
 
-A commendable effort was made to bring awareness to the regulations. However that awareness didn't include educational support for the site survey--the basic rules were the focus.   
+A commendable effort was made to bring awareness to the regulations. However that awareness didn't include educational support for the site survey. The focus for the campaigns was on registering, certifying, and parameters for flight.   
 
-The RPAS team also completed two cross-country information tours. The first occured between the Canadian Gazette publishings to seek feedback on the first draft. Then again they went on tour after the publishing of the regulations. The team describes little participation from the recreational drone community. Even if they had, in-person events are not accessible to the full target audience. Without consideration to serving remote communities, this was not a viable option for the kind of education needed for this group.  
+The RPAS team also completed two cross-country information tours. The first occurred between the Canadian Gazette publishings to seek feedback on the first draft. Then again they went on tour following the publishing of the regulations. The team described little participation from the recreational drone community. Even if they had, in-person events are not accessible to the full target audience. Without consideration of serving remote communities, this was not a viable option for the kind of education needed for this group.  
 
 #### Opportunity Statement
 > Recreational drone operators in Canada need to understand and be able to enact all the steps required between acquiring and safely operating a drone, and to understand the risks of drone flight because users want to feel competent, safe and legal when they are flying a drone. Users want to keep their drone safe and avoid fines. They want an efficient, free, understandable, comprehensive, trusted source of information.
 
 > The Digital Drone Collective will need to start small to learn about how we might tackle regulation guidance with a digital tool in order to bring it to scale. To do this, we are going to investigate how we can best facilitate the learning of the most challenging part of the regulations, the site survey. Through this, we can learn how we might apply this approach to other aspects of the regulation. We will investigate how we guide users through the process, have them understand why, and when they’ve achieved success. Through this, we can grow motivation, help people understand the information, and give guidance on how to comply with regulations. 
 
-We thought the site survey, although a complex process, would be the most impactful to prototype with. It would ensure that we could test the central question: can we teach people the required aviation practices with a digital tool? To reduce the risk and take a lean approach, we needed to test with the hardest skill. Fortunately, the site survey is also the aviation practice with the greatest impact on safety. This made it an easier sell to the broader collective. 
+To reduce the risk and take a lean approach, we needed to test with the hardest skill. We thought the site survey, although a complex process, would be the most impactful to prototype with. It would ensure that we could test the central question: can we teach people the required aviation practices with a digital tool?  Fortunately, the site survey is also the aviation practice with the greatest impact on safety. This made it an easier sell to the broader collective. 
 
 > How might we enable recreational drone pilots to confidently conduct their first site survey?
 
@@ -101,12 +109,12 @@ We thought the site survey, although a complex process, would be the most impact
 
 **Desired product outcomes:**
 
-* Motivation to follow regulations through an understanding of why these aspects are important to safety and avoiding fines
+* Motivation to follow regulations by understanding why and how these practices are important to safety
 * Success with following regulations from understanding instructions and receiving guidance.
 
 **Design constraints:**
 
-* Must be a digital tool
+* Must be a digital tool (because we're a Code for Canada Fellowship  team on a 9 month residency)
 * Must be scalable to accommodate other “doing” pieces of the regulations
 * Must allow users to conduct activities properly under the regulations, ie. no simplifying processes to meet user needs.
 
@@ -121,7 +129,7 @@ To see the final design, check out our final design gallery page.
 
 ### What we built
 
-We built a progressive web application to guide users through conducting a site survey. Our long-term vision is a tool that guides users through all the steps necessary to comply with drone regulations (Canadian Aviation Regulations Part IX), including those not part of the site survey.
+We built a progressive web application to teach users how to conduct a site survey. We followed Canada.ca "look and feel" standards so that the application could be hosted on Transport Canada's website.  We built the tool with room to grow and expand through containerization and using other modern technologies. 
 
 The app was built with the following: 
 * React.js - frontend
