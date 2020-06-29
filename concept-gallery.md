@@ -36,7 +36,7 @@ An application that would facilitate the steps required in the site survey.
 ![Before take-off checklist](concepts/letsdoit/IMG_20190306_152754.jpg)
 ![Completion state](concepts/letsdoit/IMG_20190306_152750.jpg)
 
-**Checklist**
+**"Checklist"**
 
 This direction was proposed by our TC partners. Checklists were a convention used in other areas of Civil Aviation and would be easy to build and maintain. 
 
@@ -45,7 +45,7 @@ This direction was proposed by our TC partners. Checklists were a convention use
 ![Instructions](concepts/checklist/3-help.png)
 ![Checklist-2](concepts/checklist/4-weather.png)
 
-**Guidance**
+**"Guidance"**
 
 This direction focused on educating users ahead of completing a site survey. It wouldn't be ideal for users, but would also be easy to build and maintain. 
 
