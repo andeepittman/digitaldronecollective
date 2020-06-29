@@ -49,7 +49,7 @@ This direction was proposed by our TC partners. Checklists were a convention use
 
 This direction focused on educating users ahead of completing a site survey. It wouldn't be ideal for users, but would also be easy to build and maintain. 
 
-![Landing page](concepts/guidance/Document 12_2(1).jpg)
-![Module list](concepts/guidance/Document 12_3.jpg)
-![Completion state](concepts/guidance/Document 12_4.jpg)
+![Landing page](concepts/guidance/guidance-phases.jpg)
+![Module list](concepts/guidance/guidance-steps.jpg)
+![Completion state](concepts/guidance/guidance-completion.jpg)
 
