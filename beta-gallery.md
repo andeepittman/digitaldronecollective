@@ -2,7 +2,7 @@
 
 ### Beta, final prototype
 
-After we discovered the the checklist wasn't working for the complexity of the site survey, we pivoted to focusing more on educating drone pilots. By structuring content in the form of an educational lesson, we were able to have better information architecture for the various levels of information. 
+After we discovered that the checklist wasn't working for the complexity of the site survey, we pivoted to focusing more on educating drone pilots. By structuring content in the form of an educational lesson, we were able to have better information architecture for the various levels of information. 
 
 ![Language select](ddc-final-screens/1.0-language.png)
 ![Onboarding](ddc-final-screens/2.0-onboarding-default.png)
