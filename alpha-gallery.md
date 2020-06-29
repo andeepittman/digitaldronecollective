@@ -1,4 +1,4 @@
-# Concepts Gallery
+# Alpha Gallery
 
 ### Alpha, first prototypes
 
